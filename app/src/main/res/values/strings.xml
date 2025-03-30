@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="logo">Logo</string>
+    <string name="appname">Task Flow</string>
+    <string name="username">\@username</string>
+    <string name="pass">\@password</string>
+    <string name="login">Login</string>
+    <string name="login_error">Invalid username or password</string>
+    <string name="login_success">🚀 Welcome back! You\'re logged in.</string>
+</resources>
