@@ -1,6 +1,6 @@
 # Task Flow - Android App
 
-![App Logo](app/src/main/res/drawable/applogo.PNG)
+<img src="app/src/main/res/drawable/applogo.PNG" alt="App Logo" width="300"/>
 
 ## Description
 **Task Flow** is an Android app designed to help users manage and track their tasks. Users can create and view tasks with details such as titles, descriptions, deadlines, and statuses. The app automatically updates the status of tasks to **Completed** when the deadline has passed. 
