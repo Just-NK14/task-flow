@@ -1,5 +1,3 @@
----
-
 # Task Flow - Android App
 
 ## Description
