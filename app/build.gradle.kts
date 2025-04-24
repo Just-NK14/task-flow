@@ -29,9 +29,19 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+    buildFeatures {
+        viewBinding = true
+    }
 }
 
 dependencies {
+    // For ROOM Database
+    implementation(libs.room.runtime)
+    implementation(libs.navigation.fragment)
+    implementation(libs.navigation.ui)
+    annotationProcessor(libs.room.compiler)
+    testImplementation(libs.room.testing)
+    implementation(libs.room.paging)
 
     implementation(libs.appcompat)
     implementation(libs.material)

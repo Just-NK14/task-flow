@@ -1,10 +1,35 @@
 <resources>
-    <string name="app_name">TaskFlow</string>
     <string name="logo">Logo</string>
-    <string name="appname">Task Flow</string>
     <string name="username">\@username</string>
     <string name="pass">\@password</string>
     <string name="login">Login</string>
     <string name="login_error">Invalid username or password</string>
     <string name="login_success">🚀 Welcome back! You\'re logged in.</string>
+    <string name="welcome">Welcome!</string>
+    <string name="no_acc">Don\'t have an account yet? <u>Create one.</u></string>
+    <string name="signup">Sign Up</string>
+    <string name="already_acc">Account with username already exists!</string>
+    <string name="no_empty">Fields cannot be empty!</string>
+    <string name="no_exits">User does not exist</string>
+    <string name="logout">Log Out</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="insert">Insert Task</string>
+    <string name="title_">Title:</string>
+    <string name="description_">Description:</string>
+    <string name="deadline_">Deadline:</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string-array name="task_status_options">
+        <item>Pending</item>
+        <item>Completed</item>
+    </string-array>
+    <string name="task_added">Task added successfully!</string>
+    <string name="taskflow">Task Flow</string>
+    <string name="time">Time</string>
+    <string name="create_a_task">Create a Task</string>
+    <string name="save_task">Save Task</string>
+
+
 </resources>

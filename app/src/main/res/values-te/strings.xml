@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">లోగో</string>
+    <string name="username">\@వినియోగదారు పేరు</string>
+    <string name="pass">పాస్‌వర్డ్</string>
+    <string name="login">లాగిన్</string>
+    <string name="login_error">తప్పైన యూజర్ పేరు లేదా పాస్వర్డ్</string>
+    <string name="login_success">🚀 తిరిగి స్వాగతం! మీరు లాగిన్ అయ్యారు.</string>
+    <string name="welcome">స్వాగతం!</string>
+    <string name="no_acc">ఖాతా లేదు嗎? <u>ఒక ఖాతా సృష్టించండి.</u></string>
+    <string name="signup">సైన్ అప్</string>
+    <string name="already_acc">ఈ వినియోగదారు పేరుతో ఖాతా ఇప్పటికే ఉంది!</string>
+    <string name="no_empty">ఫీల్డ్‌లు ఖాళీగా ఉండకూడదు!</string>
+    <string name="no_exits">వినియోగదారు ఉండటం లేదు</string>
+    <string name="logout">లాగ్ అవుట్</string>
+    <string name="pending">పెండింగ్</string>
+    <string name="completed">పూర్తి</string>
+    <string name="insert">టాస్క్ చొప్పించండి</string>
+    <string name="title_">శీర్షిక:</string>
+    <string name="description_">వివరణ:</string>
+    <string name="deadline_">గడువు తేదీ:</string>
+    <string name="title">శీర్షిక:</string>
+    <string name="description">వివరణ:</string>
+    <string name="date">తేదీ:</string>
+    <string name="task_added">పని విజయవంతంగా జోడించబడింది!</string>
+    <string name="taskflow">పని ప్రవాహం</string>
+    <string name="time">సమయం</string>
+    <string name="create_a_task">పని సృష్టించండి</string>
+    <string name="save_task">పనిని సేవ్ చేయండి</string>
+</resources>

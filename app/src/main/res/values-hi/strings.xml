@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">लोगो</string>
+    <string name="username">\@उपयोगकर्ता नाम</string>
+    <string name="pass">पासवर्ड</string>
+    <string name="login">लॉगिन</string>
+    <string name="login_error">अमान्य उपयोगकर्ता नाम या पासवर्ड</string>
+    <string name="login_success">🚀 फिर से स्वागत है! आप लॉग इन हो चुके हैं।</string>
+    <string name="welcome">स्वागत है!</string>
+    <string name="no_acc">क्या आपका खाता नहीं है? <u>एक खाता बनाएँ।</u></string>
+    <string name="signup">साइन अप करें</string>
+    <string name="already_acc">उपयोगकर्ता नाम के साथ खाता पहले से मौजूद है!</string>
+    <string name="no_empty">फ़ील्ड्स ख़ाली नहीं हो सकतीं!</string>
+    <string name="no_exits">उपयोगकर्ता मौजूद नहीं है</string>
+    <string name="logout">लॉगआउट करें</string>
+    <string name="pending">"लंबित "</string>
+    <string name="completed">पूर्ण</string>
+    <string name="insert">कार्य डालें</string>
+    <string name="title_">शीर्षक:</string>
+    <string name="description_">विवरण:</string>
+    <string name="deadline_">अंतिम तिथि:</string>
+    <string name="title">शीर्षक:</string>
+    <string name="description">विवरण:</string>
+    <string name="date">तारीख:</string>
+    <string name="task_added">कार्य सफलतापूर्वक जोड़ा गया!</string>
+    <string name="taskflow">कार्य प्रवाह</string>
+    <string name="time">समय</string>
+    <string name="create_a_task">कार्य बनाएँ</string>
+    <string name="save_task">कार्य सहेजें</string>
+</resources>

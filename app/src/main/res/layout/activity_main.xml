@@ -50,7 +50,7 @@
         android:fontFamily="@font/boldonse"
         android:gravity="center"
         android:padding="16dp"
-        android:text="@string/appname"
+        android:text="@string/taskflow"
         android:textColor="@color/header_text"
         android:textSize="26sp"
         android:textStyle="bold"
